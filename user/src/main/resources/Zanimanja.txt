@@ -1,0 +1,15 @@
+Med. sestra
+Spec. biohemicar
+Spec. gastroenterolog
+Spec. ginekolog
+Spec. endrokrinolog
+Spec. kardiolog
+Spec. neurolog
+Spec. nefrolog
+Spec. psihijatar
+Spec. pulmolog
+Spec. urlog
+Spec. hematolog
+Spec. hirurg
+Lab. tehnicar
+Med. biohemičar
